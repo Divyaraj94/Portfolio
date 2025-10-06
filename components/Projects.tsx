@@ -2,17 +2,18 @@
 
 import { motion, AnimatePresence } from "framer-motion";
 import { useState } from "react";
+import project1 from "../public/project1.png"
 
 
 // Example projects data (replace with your real ones)
 const projects = [
   {
     id: 1,
-    title: "Coffee Shop Website",
-    description: "...",
-    image: "/images/coffee-shop.webp",
-    liveUrl: "...",
-    githubUrl: "...",
+    title: "Interior Website",
+    description: "This website showcases the creative work and portfolio of an interior designer in a professional and visually appealing manner.",
+    image: "/project1.png",
+    liveUrl: "https://interiordesigndc.netlify.app/",
+    githubUrl: "https://github.com/Divyaraj94?tab=repositories",
     tags: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
     category: "Web", // ✅ Added
   },
