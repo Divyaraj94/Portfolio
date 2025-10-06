@@ -14,7 +14,7 @@ const projects = [
     image: "/project1.png",
     liveUrl: "https://interiordesigndc.netlify.app/",
     githubUrl: "https://github.com/Divyaraj94?tab=repositories",
-    tags: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
+    tags: ["React", "Node.js", "Tailwind CSS"],
     category: "Web", // ✅ Added
   },
   {
