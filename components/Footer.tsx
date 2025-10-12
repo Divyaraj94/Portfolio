@@ -18,9 +18,9 @@ export default function Footer({
     { icon: Twitter, href: "https://twitter.com/", label: "Twitter" },
   ],
   contactInfo = {
-    email: "your@email.com",
-    phone: "+91 1234567890",
-    address: "India",
+    email: "divyarajsinhc92@gmail.com",
+    phone: "+91 6354668920",
+    address: "ahmedabad",
   },
 }) {
   // Hydration-safe current year
